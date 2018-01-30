@@ -11,7 +11,7 @@ url: "http://zj-zhou.github.io"
 # Comment
 comment:
     disqus: zjzhou
-    # uyan: 2143225  # 有言id,登录有言官网申请
+    uyan: 2156890  # 有言id,登录有言官网申请
 
 # Social
 social:
@@ -22,8 +22,8 @@ social:
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
-# baidu:
-#    id: 8ba1c6be0953b6f9c2ba38e57f615421  
+baidu:
+    id: 6b17374b284c59d9b2297409a463f390  
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
