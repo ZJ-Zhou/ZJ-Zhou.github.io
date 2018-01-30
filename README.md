@@ -1,5 +1,5 @@
 # 使用leopard模板搭建的个人博客，有问题欢迎联系
-## email: zhouzj11@163.com
+ email: zhouzj11@163.com
 
 
 
