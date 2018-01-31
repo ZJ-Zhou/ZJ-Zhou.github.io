@@ -11,7 +11,7 @@ url: "http://zj-zhou.github.io"
 # Comment
 comment:
     disqus: zjzhou
-    uyan: 2156890  # 有言id,登录有言官网申请
+  #  uyan: 2156890  # 有言id,登录有言官网申请
 
 # Social
 social:
